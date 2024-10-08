@@ -27,4 +27,3 @@ export default function createInt8TypedArray(
     buffer.setUint8(position, value);
     return buffer;
 }
-
